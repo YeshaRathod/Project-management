@@ -1,0 +1,19 @@
+/* Header.css */
+.app-header {
+
+    color: #e6e6e6;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  .app-logo {
+    width: 55px; /* Adjust as needed */
+    height: auto;
+    margin-right: 1rem;
+  }
+  
+  .app-title {
+    font-size: 1.9rem; /* Adjust as needed */
+  }
+  
